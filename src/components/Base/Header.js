@@ -8,7 +8,7 @@ export const Header = () => {
         <div className=" w-full pt-10 lg:w-9/12 mr-auto rounded-2xl shadow-2xl">
           <img
             alt="Card"
-            src="../images/wallpaper.png"
+            src="../images/wallpaper2.png"
             className="w-full  rounded-lg shadow-lg"
           />
         </div>
